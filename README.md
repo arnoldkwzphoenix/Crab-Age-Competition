@@ -1,7 +1,7 @@
 # Crab-Age-Competition
 Regression with Crab Age Kaggle Competition
 
-@misc{playground-series-s3e16,
+{playground-series-s3e16,
     author = {Ashley Chow, inversion},
     title = {Regression with a Crab Age Dataset},
     publisher = {Kaggle},
